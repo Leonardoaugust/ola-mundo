@@ -1,11 +1,3 @@
-html,body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
-.msg {
-  font-size: 64px;
-}
 .center {
         witdh: 100%;
         height: 100%;
@@ -14,3 +6,12 @@ html,body {
         align-items: center;
         justify-content: center;
 }
+.msg {
+  font-size: 64px
+}
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
