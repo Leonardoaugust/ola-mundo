@@ -1,10 +1,10 @@
 html,body {
-  margin:0;
-  padding:0;
-  height:100%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
 .msg {
-  font-size:64px;
+  font-size: 64px;
 }
 .center {
         witdh: 100%;
